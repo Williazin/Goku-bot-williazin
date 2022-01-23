@@ -1,38 +1,4 @@
-/*
------------------------------- AVISO  ------------------------------
 
-Reprodução, edição e outros estão autorizados MAS SEM REMOVER MEUS CRÉDITOS.
-Caso remova, resulta na quebra da licença do mesmo, o que é um crime federal.
-Plagiar meus comandos não te torna coder, vá estudar, não seja um ladrão miserável.
-Levei meses nesse projeto e não paro de me empenhar em deixar todos felizes.
-Obrigado a todos que me apoiam, que não roubam isso, que pegam e põem os créditos e... 
-
-(Liberdade N° 0)
-A liberdade de executar o programa 
-para qualquer propósito.
-
-(Liberdade N° 1)
-A liberdade de estudar como o 
-programa funciona e adaptá-lo
-às suas necessidades.
-
-(Liberdade N° 2)
-A liberdade de redistribuir cópias 
-de modo que voê possa ajudar
-ao seu próximo.
-
-(Liberdade N° 3)
-A liberdade de aperfeiçoar o
-programa é liberar os seus 
-aperfeiçoamentos, de modo que
-toda a comunidade se benefecie
-deles.
-
-//SE REPORTA ESSE VÍDEO E BOT SEM PERMISSÃO
-//EU goku VOU ATRAS DE VC, E BANIR SEU NÚMERO DO WHATS
-//CUIDADO PARCEIRO!
-
-* ------------------------------  Amo Vc  ------------------------------ */
 
 /********** MÓDULOS NPM **********/
 const fs = require('fs');
