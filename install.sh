@@ -1,6 +1,6 @@
 while :
 do
-      node goku.js
+      node goku.sh
       sleep 1
       
 done
