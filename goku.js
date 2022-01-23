@@ -36,7 +36,7 @@ const { lirikLagu } = require('./base de dados/lib/lirik.js')
 const {convertSticker} = require("./base de dados/lib/swm.js") 
 const { mediafireDl } = require('./base de dados/lib/mediafire.js')
 const {dafontDown,dafontSearch } = require('./base de dados/lib/dafont')
-const { setGame, validmove } = require('./base de dados/lib/tictactoeByTobj');
+const { setGame, validmove } = require('./base de dados/datauser/lib/tictactoeByTobj');
 const { upload } = require("./base de dados/lib/upload")
 const { mess } = require('./base de dados/datauser/mess')
 
