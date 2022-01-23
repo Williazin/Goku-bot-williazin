@@ -1,7 +1,7 @@
 {
-  "name": "gokuBOT",
+  "name": "lolizitaBOT",
   "version": "1.0.0",
-  "description": "Dono: williazin",
+  "description": "Dono: Tobi",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "sh lolizita.sh"
   },
-  "author": "williazin",
+  "author": "Toba",
   "dependencies": {
   "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "axios": "^0.21.1",

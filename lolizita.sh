@@ -1,4 +1,4 @@
-while 
+while :
 do
       node lolizita.js
       sleep 1
