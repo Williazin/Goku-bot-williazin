@@ -16,7 +16,7 @@ LIGHTPURPLE='\033[1;35m'
 LIGHTCYAN='\033[1;36m'
 WHITE='\033[1;37m'
 
- echo -e " ${YELLOW}Iniciando..."
+ echo -e " ${YELLOW}Iniciando.. "
 sleep 4
 clear
 
@@ -170,7 +170,7 @@ echo ""
 echo ""
 echo ""
 echo ""
-figlet -c -f slant -t 'Lolizita-BOT' | lolcat 
+figlet -c -f slant -t 'Goku-BOT' | lolcat 
 echo ""
 echo ""
 echo ""
