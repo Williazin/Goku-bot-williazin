@@ -1,6 +1,6 @@
 while 
 do
-      node lolizita.sh
+      node lolizita.js
       sleep 1
       
 done
