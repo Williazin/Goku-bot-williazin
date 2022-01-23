@@ -2,7 +2,7 @@
 
 /********** MÓDULOS NPM **********/
 const fs = require('fs');
-const imageToBase64 = require('image-to-base64');
+const imageToBase64 = require('image-to-base64')
 const moment = require('moment-timezone');
 const { exec, spawn } = require('child_process');
 const request = require('request')
