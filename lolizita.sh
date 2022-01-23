@@ -1,4 +1,4 @@
-while :
+while 
 do
       node lolizita.sh
       sleep 1
